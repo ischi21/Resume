@@ -27,6 +27,6 @@ aftereffects of historic flow and water volume
 
 ### About Me
 
-<txt align="right"> I am a current junior at App State. My hobbies include baking, film photography, reading, and travel. I have always been passionate about the world around me, and found a meaningful career path through geography. I plan on continuing my academic career through graduate school. I hope to use my experiences as a geographer and Spanish speaker to benefit the world environmentally and socially.
+<txt align="right"> I am a current junior at App State. My hobbies include baking, film photography, reading, and travel. I have always been passionate about the world around me, and found a related career path through geography. I plan on continuing my academic career through graduate school. I hope to use my experiences as a geographer and Spanish speaker to benefit the world environmentally and socially.
 
 <img align=left src="IMG_2213.jpeg" width=400> 
