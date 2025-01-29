@@ -7,7 +7,7 @@ Student at [Appalachian State University](https://appstate.edu) in Boone, NC
 
 ##### BUMC Afterschool Program *Volunteer*
 - Assisting elementary and middle school aged students on their language proficiency in both English and Spanish
-#####  Stick Boy Bread Co. *Work*
+##### Stick Boy Bread Co. *Work*
 - Production of baked goods for local bakery, coffee shops, and various local businesses
 ##### Shulls Mill Survey from Dam Removal (May 2024) *Research*
 - Surveying Watauga River by collecting sediment and elevation data pre-dam removal
