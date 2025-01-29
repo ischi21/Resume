@@ -5,7 +5,7 @@ Student at [Appalachian State University](https://appstate.edu) in Boone, NC
 
 ### Academic and Work Experience
 
-  ##### BUMC Afterschool Program *Volunteer*
+##### BUMC Afterschool Program *Volunteer*
 - Assisting elementary and middle school aged students on their language proficiency in both English and Spanish
 #####  Stick Boy Bread Co. *Work*
 - Production of baked goods for local bakery, coffee shops, and various local businesses
