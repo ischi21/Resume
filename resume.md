@@ -1,5 +1,5 @@
 # Isabella Schiavone
-Student at Appalachian State University in Boone, NC
+Student at [Appalachian State University](appstate.edu) in Boone, NC
 
 **[B.S. General Geography](https://geo.appstate.edu/undergraduate-students/academics/bachelor-science-geography-gis-concentration) / Spanish Minor / GIS Concentration**
 
